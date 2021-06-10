@@ -1,12 +1,11 @@
 <h1 align = "center"> Olá 👋, sou Evelyn Gomes </h1>
 <h3 align = "center"> Analista de Qualidade </h3>
 
-<p align = "left"> <img src = "https: //komarev.com/ghpvc/?username=gomesevelyn&label=Profile%20views&color=0e75b6&style=flat "alt =" gomesevelyn "/> </p>
 
 - 📫 Como me alcançar **evelyngomes84@gmail.com**
 
 <h3 align = "left"> Conecte-se a mim: </h3>
-<p align = "left">
+<p align = "left">          
 <a href="https://linkedin.com/in/evelyn-gomes-966934a4/" target="blank"> < img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "evelyn-gomes-966934a4 / "height =" 30 "width =" 40 "/> </a>
 </p>
 
