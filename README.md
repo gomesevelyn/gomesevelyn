@@ -3,11 +3,11 @@
 
 <p align = "left"> <img src = "https: //komarev.com/ghpvc/?username=gomesevelyn&label=Profile%20views&color=0e75b6&style=flat "alt =" gomesevelyn "/> </p>
 
-- 📫 Como me encontrar **evelyngomes84@gmail.com**
+- 📫 Como me alcançar **evelyngomes84@gmail.com**
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/evelyn- gomes-966934a4 / "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social / linked-in-alt.svg "alt =" https://www.linkedin.com/in/evelyn-gomes-966934a4/ "height =" 30 "width =" 40 "/> </a>
+<a href="https://linkedin.com/in/evelyn-gomes-966934a4/" target="blank"> < img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "evelyn-gomes-966934a4 / "height =" 30 "width =" 40 "/> </a>
 </p>
 
 <h3 align =" left "> Idiomas e ferramentas: </h3>
